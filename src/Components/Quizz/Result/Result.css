@@ -1,0 +1,6 @@
+.result--cmp .box {
+    background-color: #f8f9fa;
+    box-shadow: 41px 70px 80px rgba(0, 0, 0, 0.07);
+    padding: 1rem;
+    margin: 1rem 0;
+}

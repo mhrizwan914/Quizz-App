@@ -1,0 +1,67 @@
+{
+    "title": "React JS Quiz",
+    "marks": 60,
+    "eachMarks": 10,
+    "questions": [
+        {
+            "question": "Html Stands For _______",
+            "options": [
+                "Hyper Text Makeup Language",
+                "html",
+                "Case Coding Style Sheet",
+                "Hypertext markup language"
+            ],
+            "answer": "Hypertext markup language"
+        },
+        {
+            "question": "CSS Stands For _________",
+            "options": [
+                "Hypertext markup language",
+                "Java",
+                "Ram",
+                "Cascading Style Sheet"
+            ],
+            "answer": "Cascading Style Sheet"
+        },
+        {
+            "question": "Js Stands For _________",
+            "options": [
+                "Java Style",
+                "Java Script",
+                "Script",
+                "Script Src"
+            ],
+            "answer": "Java Script"
+        },
+        {
+            "question": "Dom Stands For _________",
+            "options": [
+                "Document Object Model",
+                "html",
+                "CSS",
+                "Java"
+            ],
+            "answer": "Document Object Model"
+        },
+        {
+            "question": "Ram Stands For _________",
+            "options": [
+                "Read Only Memory",
+                "Dom",
+                "Random Access Memory",
+                "For Pc"
+            ],
+            "answer": "Random Access Memory"
+        },
+        {
+            "question": "Rom Stands For _________",
+            "options": [
+                "Hyper Text Markup Language",
+                "html",
+                "HTML",
+                "Read Only Memory"
+            ],
+            "answer": "Read Only Memory"
+        }
+    ]
+}
